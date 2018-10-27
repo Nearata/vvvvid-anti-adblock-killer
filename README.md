@@ -1,0 +1,1 @@
+# vvvvid-anti-adblock-killer
