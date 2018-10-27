@@ -6,7 +6,7 @@
 
 ## Funzionalità
 
-- Previene la disattivazione dell'anti adblock
+- Previene la disattivazione dell'adblock
 
 ## Update log
 
