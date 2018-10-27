@@ -19,15 +19,15 @@
         const e = this;
         const d = e.playlistItem.toJSON();
 
-        if(("vod_mode" in d) && (d.vod_mode&1) ==0 && !window.vvvvid.user.svodActive()) {
+        if(("vod_mode" in d) && (d.vod_mode & 1) === 0 && !window.vvvvid.user.svodActive()) {
             window.vvvvid.showGenericError("Il video selezionato è disponibile solo in modalità abbonamento.", function() {
-                window.vvvvid.router.mainView.resetApplication()
+                window.vvvvid.router.mainView.resetApplication();
             });
             return;
         }
 
         if(!g) {
-            e.destroyPlayers()
+            e.destroyPlayers();
         }
 
         f();
