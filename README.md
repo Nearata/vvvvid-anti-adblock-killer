@@ -10,6 +10,10 @@
 
 ## Update log
 
+**2019-01-29** : v1.0.5
+
+- Rimossa schermata pre-visione
+
 **2019-01-28** : v1.0.4
 
 - Cleanup 2.0

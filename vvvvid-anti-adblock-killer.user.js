@@ -3,7 +3,7 @@
 // @namespace   https://github.com/Nearata/vvvvid-anti-adblock-killer
 // @copyright   2018+, William Di Cicco (Nearata)
 // @license     MIT
-// @version     1.0.4
+// @version     1.0.5
 // @description Previene la disattivazione dell'adblock
 // @author      Nearata <nearata@protonmail.com>
 // @supportURL  https://github.com/Nearata/vvvvid-anti-adblock-killer/issues
@@ -20,5 +20,9 @@
         c = null;
 
         f();
+    }
+    
+    window.vvvvid.models.PlayerObj.prototype.playCommunity = function(b, f) {
+        f()
     }
 })();
