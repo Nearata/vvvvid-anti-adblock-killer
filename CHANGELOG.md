@@ -1,23 +1,30 @@
-**2019-01-29** : v1.0.5
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [1.0.5] - 2019-01-29
 
 - Rimossa schermata pre-visione
 
-**2019-01-28** : v1.0.4
+## [1.0.4] - 2019-01-28
 
 - Cleanup 2.0
 
-**2018-10-28** : v1.0.3
+## [1.0.3] - 2018-10-28
 
 - Cleanup
 
-**2018-10-27** : v1.0.2
+## [1.0.2] - 2018-10-27
 
 - Syntax fixes
 
-**2018-10-27** : v1.0.1
+## [1.0.1] - 2018-10-27
 
 - Added copyright and license
 
-**2018-10-27** : v1.0
+## [1.0.0] - 2018-10-27
 
 - Primo rilascio
