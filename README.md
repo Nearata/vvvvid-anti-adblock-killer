@@ -6,6 +6,7 @@
 
 - Rimuove la pubblicità
 - Rimuove la schermata pre-visione
+- Rimuove il logo animato iniziale di VVVVID
 
 ## License
 
