@@ -12,9 +12,9 @@
 // @grant       none
 // ==/UserScript==
 
-(function() {
-  'use strict';
+(function () {
+    'use strict';
 
-  window.vvvvid.lastPlayedPreCommunityTime = Infinity
-  window.nopub = true
+    window.vvvvid.lastPlayedPreCommunityTime = Infinity;
+    window.nopub = true;
 })();
