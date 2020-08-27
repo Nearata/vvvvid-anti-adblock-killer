@@ -1,10 +1,12 @@
-# vvvvid-anti-adblock-killer
+# VVVVID Anti-Adblock Killer
 
-### Compatibility Check
+> Uno script che rimuove la pubblicità su VVVVID
 
-![](https://img.shields.io/badge/tampermonkey-4.7%20tested-brightgreen.svg) ![](https://img.shields.io/badge/violentmonkey-2.9.8%20tested-brightgreen.svg)
+## Funzionalità
 
-### Funzionalità
+- Rimuove la pubblicità
+- Rimuove la schermata pre-visione
 
-- Previene la disattivazione dell'adblock
-- Rimuove la schermata pre-visione "Ti aspettiamo in community"
+## License
+
+Distributed under the MIT license. See `LICENSE` for more information.
